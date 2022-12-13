@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Headache",
+      "email": "Migraine",
+      "phone": "Imitrex",
+      "id": 1
+    },
+    {
+      "name": "Loose Motion",
+      "email": "Diarrhea",
+      "phone": "Imodium A-D (loperamide)",
+      "id": 2
+    }
+  ]
+}
